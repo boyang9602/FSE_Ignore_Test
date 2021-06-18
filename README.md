@@ -1,3 +1,9 @@
+### Description
+1. RAW.zip is the raw data
+2. RQ_data is the folder of data for RQs
+3. src is the folder of source code of the disabled tests tracking tool
+4. scripts is the folder of scripts that process raw data
+
 ### How to compile? 
 mvn clean package
 
