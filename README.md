@@ -1,3 +1,5 @@
+[How disabled Test Manifests in Test Maintenance Challenges?](https://jinqiuyang.github.io/papers/fse21-test-ignore.pdf)
+
 ### Description
 1. RAW.zip is the raw data
 2. RQ_data is the folder of data for RQs
