@@ -1,4 +1,4 @@
-[How disabled Test Manifests in Test Maintenance Challenges?](https://jinqiuyang.github.io/papers/fse21-test-ignore.pdf)
+[How disabled Tests Manifest in Test Maintenance Challenges?](https://jinqiuyang.github.io/papers/fse21-test-ignore.pdf)
 
 ### Description
 1. RAW.zip is the raw data
